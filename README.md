@@ -5,3 +5,4 @@
 #### Figure 1
 #### The two degrees of freedom here are theta1 and theta2. 
 #### If you started solving this problem, you will get the following components:
+#### x₁= l₁sin𝜃₁
