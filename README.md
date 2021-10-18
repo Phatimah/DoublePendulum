@@ -13,4 +13,5 @@
 
 
 
-#### From the principle of the least action (the Lagrangian by other words): L= T-V; where T is and V is
+
+#### From the principle of the least action (the Lagrangian by other words): L= T-V; where T is the potential energy and V is the kinetic energy.
