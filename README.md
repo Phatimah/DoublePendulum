@@ -6,3 +6,11 @@
 #### The two degrees of freedom here are theta1 and theta2. 
 #### If you started solving this problem, you will get the following components:
 #### x₁= l₁sin𝜃₁
+
+
+
+### PE and KE:
+
+
+
+### From the principle of the least action (the Lagrangian by other words): L= T-V; where T is and V is
