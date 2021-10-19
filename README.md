@@ -8,10 +8,10 @@
 ##### x₁= l₁sin𝜃₁
 
 
-##### Figure2
+##### Figure 2
 ##### PE and KE:
 
 
 
-##### Figure3
+##### Figure 3
 ##### From the principle of the least action (the Lagrangian by other words): L= T-V; where T is the kinetic energy and V is the potential energy.
